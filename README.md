@@ -1,2 +1,2 @@
-# unity-demo
-Demo Unity game that shows the Game Tester implementation.
+# unity-example
+Shows an example of how to integrate the Game Tester API into a Unity game.
