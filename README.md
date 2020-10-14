@@ -1,4 +1,4 @@
-# unity-example
+# Game Tester Unity Example Game
 A basic example Unity game to demonstrate integration with the Game Tester API.
 
 ## How To Use
