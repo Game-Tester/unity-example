@@ -134,7 +134,7 @@ public class UiManager : MonoBehaviour
     {
         GameTesterMode mode = GameTesterMode.Sandbox;
 
-        GameTester.Initialize(mode, "validToken");
+        GameTester.Initialize(mode, "validToken", debugLogging: true);
     }
 
 }
