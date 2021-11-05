@@ -2,7 +2,7 @@
 A basic example Unity game to demonstrate integration with the Game Tester API.
 
 ## How To Use
-If you want to run the game yourself please install Unity 2018.4.25f1. Later versions might work but will require Unity to upgrade the project which could cause problems.
+If you want to run the game yourself please install Unity 2020.3.12f1. Later versions might work but will require Unity to upgrade the project which could cause problems.
 
 There are two important files you should be aware of in this example:
 <br>
